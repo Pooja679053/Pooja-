@@ -1,0 +1,1 @@
+insert into pooja.Sales_partition select * from pooja.Sales;
