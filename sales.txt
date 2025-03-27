@@ -1,0 +1,1 @@
+create table if not exists pooja.Sales as select * FROM bigquery-public-data.iowa_liquor_sales.sales
